@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AR_Shopping.iml" filepath="$PROJECT_DIR$/.idea/modules/AR_Shopping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/AR_Shopping.launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/AR_Shopping.launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/AR_Shopping.unityLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/AR_Shopping.unityLibrary.iml" />
+    </modules>
+  </component>
+</project>
